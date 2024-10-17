@@ -7,8 +7,7 @@
   "screenshot_files": [
     "./assets/screenshot_1.png",
     "./assets/screenshot_2.png",
-    "./assets/screenshot_3.png",
-    "./assets/screenshot_4.png"
+    "./assets/screenshot_3.png"
   ],
   "logo_file": "./assets/logo.png",
   "banner_file": "./assets/banner.png",
