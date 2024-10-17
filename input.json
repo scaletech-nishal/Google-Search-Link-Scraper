@@ -1,12 +1,12 @@
 [
-    {
-        "type": "textarea",
-        "datatype": "string",
-        "placeholder": "Enter search keywords per line",
-        "default": "crawlora",
-        "label": "Google searchs",
-        "regex": "/^.*$/",
-        "required": true,
-        "name": "searches"
-      }
+  {
+    "type": "textarea",
+    "datatype": "string",
+    "placeholder": "Enter search query per line like Stock market\nMarketing tools",
+    "default": "",
+    "label": "Search-queries",
+    "regex": "/^.*$/",
+    "required": true,
+    "name": "queries"
+  }
 ]
