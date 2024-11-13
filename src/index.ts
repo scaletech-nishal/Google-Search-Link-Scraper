@@ -46,7 +46,6 @@ export default async function ({
           debug(
             `Fetched ${extractedResults.length} results for query: "${query}"`
           );
-
           await Promise.all(
             extractedResults.map(async (result) => {
               await output.create({
